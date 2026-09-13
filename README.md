@@ -12,3 +12,5 @@ An AI-powered full-stack micro-app development environment for agencies, solo fo
 * **Two-Way GitHub Sync**: Seamlessly sync changes between AI Studio and your GitHub repositories.
 * **Live Multiplayer & Presentation Mode**: Collaborate in real time with client-facing preview modes.
 * **Self-Healing AST Engine**: Intelligent error detection and automated code correction.
+for test caes it is publised in https://aether-ide.netlify.app/
+and plzzzz help me building this app into another extent by donating me plzz
